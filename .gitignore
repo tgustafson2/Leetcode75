@@ -3,3 +3,5 @@
 Program.cs
 bin/
 obj/
+.vscode/c_cpp_properties.json
+.vscode/settings.json
